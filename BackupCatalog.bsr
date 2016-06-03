@@ -1,7 +1,7 @@
-# 02-Jun-2016 01:43:18 - BackupCatalog.2016-06-01_23.10.00_21 - Full
+# 03-Jun-2016 01:37:51 - BackupCatalog.2016-06-02_23.10.00_23 - Full
 Volume="tape30"
 MediaType="tape"
-VolSessionId=60
+VolSessionId=62
 VolSessionTime=1461248099
-VolAddr=1460288880640-1460288881421
+VolAddr=2924872728576-2924872729364
 FileIndex=1-1
