@@ -1,7 +1,7 @@
-# 08-Jun-2016 01:22:08 - BackupCatalog.2016-06-07_23.10.00_32 - Full
-Volume="tape33"
+# 09-Jun-2016 01:45:07 - BackupCatalog.2016-06-08_23.10.00_35 - Full
+Volume="tape34"
 MediaType="tape"
-VolSessionId=68
+VolSessionId=70
 VolSessionTime=1461248099
 VolAddr=1460288880640-1460288881423
 FileIndex=1-1
