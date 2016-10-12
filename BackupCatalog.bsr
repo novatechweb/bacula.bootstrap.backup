@@ -1,7 +1,7 @@
-# 11-Oct-2016 00:05:03 - BackupCatalog.2016-10-10_23.10.00_29 - Full
-Volume="tape17"
+# 12-Oct-2016 00:04:59 - BackupCatalog.2016-10-11_23.10.00_33 - Full
+Volume="tape34"
 MediaType="tape"
-VolSessionId=142
+VolSessionId=144
 VolSessionTime=1467119166
-VolAddr=3964254814208-3964254814949
+VolAddr=4909147619328-4909147620069
 FileIndex=1-1
