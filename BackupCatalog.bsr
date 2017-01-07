@@ -1,7 +1,7 @@
-# 06-Jan-2017 00:32:24 - BackupCatalog.2017-01-05_23.10.00_24 - Full
-Volume="testtape01"
+# 07-Jan-2017 00:33:10 - BackupCatalog.2017-01-06_23.10.00_27 - Full
+Volume="tape06"
 MediaType="tape"
-VolSessionId=58
+VolSessionId=60
 VolSessionTime=1480104249
-VolAddr=8439610736640-8439610737433
+VolAddr=6932077215744-6932077216544
 FileIndex=1-1
