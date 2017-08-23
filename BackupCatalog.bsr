@@ -1,7 +1,7 @@
-# 22-Aug-2017 00:44:19 - BackupCatalog.2017-08-21_23.10.00_02 - Full
-Volume="tape23"
+# 23-Aug-2017 00:46:41 - BackupCatalog.2017-08-22_23.10.00_06 - Full
+Volume="tape02"
 MediaType="tape"
-VolSessionId=106
+VolSessionId=108
 VolSessionTime=1497029809
-VolAddr=6214817677312-6214817678256
+VolAddr=7945689497600-7945689498545
 FileIndex=1-1
