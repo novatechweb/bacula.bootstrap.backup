@@ -1,7 +1,7 @@
-# 16-Jan-2018 00:58:02 - BackupCatalog.2018-01-15_23.10.00_57 - Full
-Volume="tape36"
+# 17-Jan-2018 00:55:32 - BackupCatalog.2018-01-16_23.10.00_01 - Full
+Volume="tape11"
 MediaType="tape"
-VolSessionId=314
+VolSessionId=316
 VolSessionTime=1497029809
-VolAddr=5922759901184-5922759902200
+VolAddr=1026497183744-1026497184761
 FileIndex=1-1
