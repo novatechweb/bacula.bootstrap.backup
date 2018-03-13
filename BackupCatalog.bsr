@@ -1,13 +1,7 @@
-# 12-Mar-2018 08:44:21 - BackupCatalog.2018-03-09_23.10.00_40 - Full
+# 13-Mar-2018 00:58:46 - BackupCatalog.2018-03-12_23.10.00_44 - Full
 Volume="tape07"
 MediaType="tape"
-VolSessionId=396
+VolSessionId=398
 VolSessionTime=1497029809
-VolAddr=0-0
-FileIndex=0-0
-Volume="tape07"
-MediaType="tape"
-VolSessionId=396
-VolSessionTime=1497029809
-VolAddr=1-1040
+VolAddr=352187318272-352187319304
 FileIndex=1-1
