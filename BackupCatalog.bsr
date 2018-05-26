@@ -1,7 +1,7 @@
-# 25-May-2018 00:38:10 - BackupCatalog.2018-05-24_23.10.00_42 - Full
-Volume="tape38"
+# 26-May-2018 00:47:07 - BackupCatalog.2018-05-25_23.10.00_46 - Full
+Volume="tape06"
 MediaType="tape"
-VolSessionId=20
+VolSessionId=22
 VolSessionTime=1526046650
-VolAddr=9865539878912-9865539880035
+VolAddr=7756710936576-7756710937708
 FileIndex=1-1
