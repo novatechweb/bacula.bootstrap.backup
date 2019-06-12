@@ -1,13 +1,7 @@
-# 10-Jun-2019 23:10:32 - BackupCatalog.2019-06-10_23.10.00_51 - Full
+# 12-Jun-2019 15:54:37 - BackupCatalog.2019-06-12_15.53.53_15 - Full
 Volume="tape33"
 MediaType="tape"
-VolSessionId=267
+VolSessionId=270
 VolSessionTime=1543186802
-VolAddr=0-0
-FileIndex=0-0
-Volume="tape33"
-MediaType="tape"
-VolSessionId=267
-VolSessionTime=1543186802
-VolAddr=1-316
+VolAddr=3818225926144-3818225926461
 FileIndex=1-1
