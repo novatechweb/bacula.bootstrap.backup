@@ -1,7 +1,13 @@
-# 24-Sep-2019 07:10:50 - BackupCatalog.2019-09-23_23.10.00_32 - Full
-Volume="tape11"
+# 24-Sep-2019 23:10:35 - BackupCatalog.2019-09-24_23.10.00_03 - Full
+Volume="tape03"
 MediaType="tape"
-VolSessionId=96
-VolSessionTime=1563025101
-VolAddr=5437428596736-5437428603674
+VolSessionId=1
+VolSessionTime=1569361628
+VolAddr=0-0
+FileIndex=0-0
+Volume="tape03"
+MediaType="tape"
+VolSessionId=1
+VolSessionTime=1569361628
+VolAddr=1-6912
 FileIndex=1-1
