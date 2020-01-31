@@ -1,7 +1,13 @@
-# 30-Jan-2020 07:00:35 - BackupCatalog.2020-01-29_23.10.00_06 - Full
-Volume="tape10"
+# 31-Jan-2020 07:00:07 - BackupCatalog.2020-01-30_23.10.00_11 - Full
+Volume="tape11"
 MediaType="tape"
-VolSessionId=3
+VolSessionId=5
 VolSessionTime=1580312317
-VolAddr=7181185318912-7181185334289
+VolAddr=7181185318912-7181185334411
+FileIndex=1-1
+Volume="tape11"
+MediaType="tape"
+VolSessionId=5
+VolSessionTime=1580312317
+VolAddr=7185480286208-7185480287017
 FileIndex=1-1
