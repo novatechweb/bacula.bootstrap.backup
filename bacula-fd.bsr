@@ -1,13 +1,13 @@
-# 17-Mar-2020 11:51:09 - BackupCatalogToFile.2020-03-17_11.50.08_11 - Full
-Volume="BackupCatalogToFile.2020-03-17_11.50.08_11"
-MediaType="file"
-VolSessionId=11
+# 18-Mar-2020 08:23:33 - BackupCatalog.2020-03-17_23.10.00_04 - Full
+Volume="tape09"
+MediaType="tape"
+VolSessionId=13
 VolSessionTime=1584040348
-VolAddr=250-999936249
+VolAddr=8521215115264-8521215130763
 FileIndex=1-1
-Volume="BackupCatalogToFile.2020-03-17_11.50.08_11"
-MediaType="file"
-VolSessionId=11
+Volume="tape09"
+MediaType="tape"
+VolSessionId=13
 VolSessionTime=1584040348
-VolAddr=999936250-1536683850
+VolAddr=8525510082560-8525510089021
 FileIndex=1-1
