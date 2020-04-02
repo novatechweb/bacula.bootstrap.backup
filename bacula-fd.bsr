@@ -1,13 +1,7 @@
-# 21-Mar-2020 10:52:07 - BackupCatalogToFile.2020-03-20_23.05.01_08 - Full
-Volume="BackupCatalogToFile.2020-03-20_23.05.01_08"
-MediaType="file"
-VolSessionId=9
+# 02-Apr-2020 16:38:29 - BackupCatalog.2020-04-01_23.10.00_57 - Full
+Volume="THU03"
+MediaType="tape"
+VolSessionId=27
 VolSessionTime=1584628508
-VolAddr=250-999936243
-FileIndex=1-1
-Volume="BackupCatalogToFile.2020-03-20_23.05.01_08"
-MediaType="file"
-VolSessionId=9
-VolSessionTime=1584628508
-VolAddr=999936244-1302911304
+VolAddr=1-12912
 FileIndex=1-1
