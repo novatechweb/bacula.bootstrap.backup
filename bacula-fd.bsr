@@ -1,7 +1,7 @@
-# 09-Apr-2020 08:36:39 - BackupCatalog.2020-04-08_23.10.00_59 - Full
-Volume="WED04"
+# 11-Apr-2020 08:46:49 - BackupCatalog.2020-04-10_23.10.00_08 - Full
+Volume="weekly06"
 MediaType="tape"
-VolSessionId=41
+VolSessionId=44
 VolSessionTime=1584628508
-VolAddr=8985071583232-8985071595265
+VolAddr=8985071583232-8985071595267
 FileIndex=1-1
