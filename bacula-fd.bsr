@@ -1,7 +1,7 @@
-# 01-May-2020 10:55:53 - BackupCatalog.2020-04-30_23.10.00_34 - Full
-Volume="THU01"
+# 05-Jun-2020 09:05:09 - BackupCatalog.2020-06-05_09.04.53_55 - Full
+Volume="THU02"
 MediaType="tape"
-VolSessionId=66
+VolSessionId=118
 VolSessionTime=1584628508
-VolAddr=10428180594688-10428180609308
+VolAddr=1-3599
 FileIndex=1-1
