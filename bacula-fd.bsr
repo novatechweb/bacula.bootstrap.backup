@@ -1,7 +1,7 @@
-# 03-Aug-2020 14:56:32 - BackupCatalog.2020-08-03_07.08.22_18 - Full
-Volume="THU01"
+# 05-Aug-2020 14:37:03 - BackupCatalog.2020-08-04_23.10.00_31 - Full
+Volume="WED02"
 MediaType="tape"
-VolSessionId=6
+VolSessionId=11
 VolSessionTime=1596102794
-VolAddr=7164005449728-7164005454402
+VolAddr=7164005449728-7164005455186
 FileIndex=1-1
