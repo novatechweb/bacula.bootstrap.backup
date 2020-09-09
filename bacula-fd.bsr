@@ -1,7 +1,13 @@
-# 03-Sep-2020 09:39:46 - BackupCatalog.2020-09-02_23.10.00_51 - Full
-Volume="TUE04"
+# 09-Sep-2020 14:34:41 - BackupCatalog.2020-09-08_23.10.00_08 - Full
+Volume="THU06"
 MediaType="tape"
-VolSessionId=57
+VolSessionId=61
 VolSessionTime=1596102794
-VolAddr=9152575307776-9152575316477
+VolAddr=0-0
+FileIndex=0-0
+Volume="THU06"
+MediaType="tape"
+VolSessionId=61
+VolSessionTime=1596102794
+VolAddr=1-6427
 FileIndex=1-1
