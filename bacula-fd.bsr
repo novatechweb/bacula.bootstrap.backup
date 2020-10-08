@@ -1,7 +1,7 @@
-# 06-Oct-2020 13:24:56 - BackupCatalog.2020-10-06_06.31.42_28 - Full
-Volume="WED04"
+# 08-Oct-2020 16:43:36 - BackupCatalog.2020-10-07_23.10.00_42 - Full
+Volume="WED02"
 MediaType="tape"
-VolSessionId=32
+VolSessionId=38
 VolSessionTime=1600381702
-VolAddr=7194070220800-7194070223479
+VolAddr=7194070220800-7194070223542
 FileIndex=1-1
