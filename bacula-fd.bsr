@@ -1,7 +1,7 @@
-# 13-Nov-2020 06:43:54 - BackupCatalog.2020-11-12_23.10.00_51 - Full
-Volume="tape21"
+# 16-Nov-2020 14:00:19 - BackupCatalog.2020-11-16_06.58.06_59 - Full
+Volume="weekly07"
 MediaType="tape"
-VolSessionId=19
+VolSessionId=22
 VolSessionTime=1604137060
-VolAddr=7331509174272-7331509176359
+VolAddr=7331509174272-7331509176382
 FileIndex=1-1
