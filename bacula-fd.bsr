@@ -1,7 +1,7 @@
-# 06-Jan-2021 13:44:42 - BackupCatalog.2021-01-06_06.42.39_27 - Full
-Volume="TUE06"
+# 12-Jan-2021 13:14:53 - BackupCatalog.2021-01-12_06.23.57_49 - Full
+Volume="weekly02"
 MediaType="tape"
-VolSessionId=98
+VolSessionId=105
 VolSessionTime=1604137060
-VolAddr=6747393622016-6747393624125
+VolAddr=6751688589312-6751688591301
 FileIndex=1-1
