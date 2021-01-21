@@ -1,7 +1,7 @@
-# 20-Jan-2021 13:39:34 - BackupCatalog.2021-01-19_23.10.00_21 - Full
-Volume="MON03"
+# 21-Jan-2021 17:03:40 - BackupCatalog.2021-01-20_23.10.00_26 - Full
+Volume="WED06"
 MediaType="tape"
-VolSessionId=118
+VolSessionId=120
 VolSessionTime=1604137060
-VolAddr=6889127542784-6889127544808
+VolAddr=6889127542784-6889127544840
 FileIndex=1-1
